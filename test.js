@@ -1,4 +1,4 @@
-
+//shell avec promesse
 
 function monShell(commande){
     const { execSync } = require('child_process')
