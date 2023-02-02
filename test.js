@@ -22,7 +22,7 @@ const prompt = ps();
 
 let commande = prompt(">");
 do {
-    if (commande === "exit") {
+    if (commande == "exit") {
         break }
 
     else {
