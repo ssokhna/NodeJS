@@ -17,6 +17,6 @@ Si la commande est "exit", la boucle se termine et le shell est fermé.
 Dans le cas où aucune des commandes précédentes n'est entrée, le message "error !" est affiché dans la console
 
 
-Pour la realisation de ce projet, nous avons lu les chapitres 1,2,3,4,5 et 10 du livre ElOQUENT JAVASCRIPT de Marijin Harverbeke et
-nous avons completer notre apprentissage par des cours trouvés sur le net
+Pour la realisation de ce projet, nous avons lu les chapitres 1 à 5 du livre ElOQUENT JAVASCRIPT de Marijin Harverbeke et
+nous avons compléter notre apprentissage par des cours trouvés sur le net.
 
